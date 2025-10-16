@@ -43,23 +43,26 @@ Make sure you have the following installed on your system:
 
 ## ⚙️ Steps to Run the Project
 
-# ⿡ Download the ZIP file for the repository
-# or clone it directly from GitHub
-git clone https://github.com/your-username/sprout-design-ideas.git
+## 🖥️ How to Run This Project Locally
 
-# ⿢ Navigate into the project folder
+Follow these steps:
+
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>.git
+
+# Step 2: Navigate to the project directory.
+cd <Sprout-plant-awareness-website>
+
+# ⚠️ If you see another folder inside with the same name, move into it too.
 cd sprout-design-ideas-main
 
-# ⿣ Install all required dependencies
+# Step 3: Install the necessary dependencies.
 npm install
 
-# ⿤ Start the development server
+# Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
-
-# ⿥ Open the project in your browser
-# (the terminal will show the exact port, usually)
-http://localhost:5173/
-
+```
 
 ##  Share your views and do some forks 
 
