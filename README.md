@@ -1,54 +1,19 @@
-# Welcome to your Lovable project
+# 🌱 Sprout — Plant Awareness Website
 
-## Project info
+Sprout is a community-driven website built to promote **plant awareness**, **environmental responsibility**, and **sustainability**.  
+It’s a space where people can share how they’re helping the planet — whether it’s planting trees, growing home gardens, or supporting green initiatives.
 
-**URL**: https://lovable.dev/projects/dd89f138-e9e6-4316-9b18-d800e84fc76b
+---
 
-## How can I edit this code?
+## 💡 Features
 
-There are several ways of editing your application.
+- 📸 **Community Uploads** – Visitors can share pictures and messages showing how they contributed to plant awareness.
+- 💬 **Likes & Comments** – Users can interact with others’ posts by commenting and leaving hearts.
+- 🏆 **Shoutouts Section** – The top 5 most-loved posts are automatically featured as weekly shoutouts.
+- 🌿 **Educational Content** – Sections explaining why plants matter, how to care for them, and their environmental impact.
+- 🪴 **Responsive Design** – Fully mobile-friendly, modern, and nature-inspired layout.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/dd89f138-e9e6-4316-9b18-d800e84fc76b) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
 ## What technologies are used for this project?
 
@@ -60,14 +25,29 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+# 🖥️ How to Run This Project Locally
 
-Simply open [Lovable](https://lovable.dev/projects/dd89f138-e9e6-4316-9b18-d800e84fc76b) and click on Share -> Publish.
+Follow these instructions to set up and run this project on your local machine.
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+## ✅ Prerequisites
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Make sure you have the following installed on your system:
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+- [Node.js](https://nodejs.org/) (version 16 or higher recommended)
+- npm (comes bundled with Node)
+- Git (optional, but recommended)
+
+---
+
+## ⚙️ Steps to Run the Project
+
+### 1. Clone the Repository
+Open your terminal and run:
+```bash
+git clone https://github.com/<Maaz-tariq>/<Sprout-plant-awareness-website>.git
+
+
+
+
