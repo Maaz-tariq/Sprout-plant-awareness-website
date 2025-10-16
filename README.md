@@ -43,11 +43,14 @@ Make sure you have the following installed on your system:
 
 ## ⚙️ Steps to Run the Project
 
-### 1. Clone the Repository
-Open your terminal and run:
-```bash
-git clone https://github.com/<Maaz-tariq>/<Sprout-plant-awareness-website>.git
+1. Download the zip file for the repository
+2. Open it on your code repository
+3. On terminal type -     cd sprout-design-ideas-main
+4. Than type        -     npm install
+5. Than             -     npm run dev
+6. Than click the local host link i.e.   http://localhost:5173/
 
 
+##  Share your views and doo some forks 
 
 
