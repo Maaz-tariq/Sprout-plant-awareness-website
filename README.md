@@ -43,14 +43,24 @@ Make sure you have the following installed on your system:
 
 ## ⚙️ Steps to Run the Project
 
-1. Download the zip file for the repository
-2. Open it on your code repository
-3. On terminal type -     cd sprout-design-ideas-main
-4. Than type        -     npm install
-5. Than             -     npm run dev
-6. Than click the local host link i.e.   http://localhost:5173/
+# ⿡ Download the ZIP file for the repository
+# or clone it directly from GitHub
+git clone https://github.com/your-username/sprout-design-ideas.git
+
+# ⿢ Navigate into the project folder
+cd sprout-design-ideas-main
+
+# ⿣ Install all required dependencies
+npm install
+
+# ⿤ Start the development server
+npm run dev
+
+# ⿥ Open the project in your browser
+# (the terminal will show the exact port, usually)
+http://localhost:5173/
 
 
-##  Share your views and doo some forks 
+##  Share your views and do some forks 
 
 
