@@ -3,6 +3,7 @@ import { Mission } from "@/components/Mission";
 import { WhyPlantsMatter } from "@/components/WhyPlantsMatter";
 import { PlantCareTips } from "@/components/PlantCareTips";
 import { EnvironmentalImpact } from "@/components/EnvironmentalImpact";
+import { Community } from "@/components/Community";
 import { JoinMovement } from "@/components/JoinMovement";
 import { Footer } from "@/components/Footer";
 
@@ -14,6 +15,7 @@ const Index = () => {
       <WhyPlantsMatter />
       <PlantCareTips />
       <EnvironmentalImpact />
+      <Community />
       <JoinMovement />
       <Footer />
     </div>
