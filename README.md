@@ -62,6 +62,9 @@ npm install
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
+
+# Step 5: Click the localhost link.
+http://localhost:5173/
 ```
 
 ##  Share your views and do some forks 
