@@ -49,7 +49,7 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>.git
+git clone  https://github.com/Maaz-tariq/Sprout-plant-awareness-website.git
 
 # Step 2: Navigate to the project directory.
 cd <Sprout-plant-awareness-website>
